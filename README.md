@@ -15,7 +15,7 @@
 - 😄 Pronouns: She/Her
   
 - ⚡ Fun fact: I have a strong inclination towards learning new things, staying informed about current events and news, and I have a deep passion for writing, whether it's crafting phrases, composing poems, or engaging in various forms of creative expression.
-
+------------------
 ## 🎯 Some technologies I use:
 #### ☁️ CLOUD
 <p>
