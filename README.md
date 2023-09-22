@@ -15,8 +15,9 @@
 - 😄 Pronouns: She/Her
   
 - ⚡ Fun fact: I have a strong inclination towards learning new things, staying informed about current events and news, and I have a deep passion for writing, whether it's crafting phrases, composing poems, or engaging in various forms of creative expression.
-------------------
-## 🎯 Some technologies I use:
+
+
+## 🎯 Some technologies I use: 
 #### ☁️ CLOUD
 <p>
   <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
