@@ -21,8 +21,6 @@
 - **❓ Questions:** Feel free to ask about my computer engineering projects, programming language proficiency, or experiences in software development and algorithms.
 - **📧 Contact Me:** [miriam08.mr@gmail.com](mailto:miriam08.mr@gmail.com)
 
-<br>
-
 ## 🎯 Some technologies I use:
 
 ### Data Analytics 📊
