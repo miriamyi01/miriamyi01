@@ -29,10 +29,6 @@
 
 
 ## 🎯 Some technologies I use:
-<br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miriamyi01&layout=donut">
-</p>
 
 ### Data Analytics 📊
 <div align="center">
