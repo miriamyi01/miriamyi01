@@ -3,10 +3,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:8C29E2,100:DB4078&text=Miriam%20Reyes&fontColor=ffffff&fontSize=58&fontAlignY=36&animation=fadeIn&desc=Data%20Scientist%20%C2%B7%20Computer%20Engineer&descSize=20&descAlignY=58" width="100%" alt="Miriam Reyes banner">
 
 <a href="https://github.com/miriamyi01">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=900&color=DB4078&center=true&vCenter=true&width=700&height=45&lines=Turning+data+into+business+decisions;Recommendation+systems+%C2%B7+Machine+Learning;Segmentation+%C2%B7+A%2FB+Testing+%C2%B7+Dashboards;Cloud+data+engineering+on+AWS;Machine+Learning+%C2%B7+Analytics+%C2%B7+GenAI" alt="Typing animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=900&color=8C29E2&center=true&vCenter=true&width=700&height=45&lines=Turning+data+into+business+decisions;Recommendation+systems+%C2%B7+Machine+Learning;Segmentation+%C2%B7+A%2FB+Testing+%C2%B7+Dashboards;Cloud+data+engineering+on+AWS;Machine+Learning+%C2%B7+Analytics+%C2%B7+GenAI" alt="Typing animation">
 </a>
 
-<br><br>
+<br>
 
   <a href="https://www.linkedin.com/in/miriam-reyes-ds/"><img src="https://img.shields.io/badge/LinkedIn-8C29E2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:miriam08.mr@gmail.com"><img src="https://img.shields.io/badge/Gmail-DB4078?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -14,11 +14,7 @@
 
 </div>
 
-<br>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8C29E2,100:DB4078&height=2" width="100%" alt="">
-
-<br>
 
 ## 🙋‍♀️ About Me
 
@@ -32,11 +28,7 @@ I am a Data Scientist at **Volaris** and a Computer Engineer from the **Faculty 
 - **🌱 Learning:** Advanced machine learning, advanced analytics and generative AI.
 - **🏅 Previous Work:** Data analysis projects focused on improving athletic performance.
 
-<br>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8C29E2,100:DB4078&height=2" width="100%" alt="">
-
-<br>
 
 ## 💼 Professional Experience
 
@@ -79,11 +71,7 @@ Automation system built with Google Workspace to reduce the foundation's manual 
 - 📧 **Event Invitations:** Reusable personalized mailings for one-time events, from a spreadsheet and an HTML template.
 - 📋 **Social Service Tracking:** End-of-service notices at 30, 15 and 7 days, plus calendar events created without duplicates.
 
-<br>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8C29E2,100:DB4078&height=2" width="100%" alt="">
-
-<br>
 
 ## 🚀 Featured Repositories
 
@@ -94,11 +82,7 @@ Automation system built with Google Workspace to reduce the foundation's manual 
   <a href="https://github.com/miriamyi01?tab=repositories"><img src="https://img.shields.io/badge/All%20Repositories-8C29E2?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
-<br>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8C29E2,100:DB4078&height=2" width="100%" alt="">
-
-<br>
 
 ## 🎓 Education & Training
 
@@ -106,11 +90,7 @@ Automation system built with Google Workspace to reduce the foundation's manual 
 - **☁️ AWS Training & Certification:** Architecting on AWS, Data Warehousing, Building Data Lakes, Batch and Streaming Data Analytics, and Amazon SageMaker for Data Scientists.
 - **📈 Tableau:** Basic, Intermediate and Advanced workshops.
 
-<br>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8C29E2,100:DB4078&height=2" width="100%" alt="">
-
-<br>
 
 ## 🎨 Personal Traits
 
@@ -118,11 +98,7 @@ Automation system built with Google Workspace to reduce the foundation's manual 
 - 💪 **Determination:** Decisive and highly organized, with well-defined goals and a strong focus on results.
 - 🔥 **Passion for Innovation:** Always looking to refine my technical and professional skills.
 
-<br>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8C29E2,100:DB4078&height=2" width="100%" alt="">
-
-<br>
 
 ## 🎯 Tech Stack
 
@@ -186,11 +162,7 @@ Automation system built with Google Workspace to reduce the foundation's manual 
 
 </div>
 
-<br>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8C29E2,100:DB4078&height=2" width="100%" alt="">
-
-<br>
 
 ## 💬 Let's Connect
 
