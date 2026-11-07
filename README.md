@@ -14,7 +14,11 @@
 
 </div>
 
+<br>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8C29E2,100:DB4078&height=2" width="100%" alt="">
+
+<br>
 
 ## 🙋‍♀️ About Me
 
@@ -28,7 +32,11 @@ I am a Data Scientist at **Volaris** and a Computer Engineer from the **Faculty 
 - **🌱 Learning:** Advanced machine learning, advanced analytics and generative AI.
 - **🏅 Previous Work:** Data analysis projects focused on improving athletic performance.
 
+<br>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8C29E2,100:DB4078&height=2" width="100%" alt="">
+
+<br>
 
 ## 💼 Professional Experience
 
@@ -71,7 +79,11 @@ Automation system built with Google Workspace to reduce the foundation's manual 
 - 📧 **Event Invitations:** Reusable personalized mailings for one-time events, from a spreadsheet and an HTML template.
 - 📋 **Social Service Tracking:** End-of-service notices at 30, 15 and 7 days, plus calendar events created without duplicates.
 
+<br>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8C29E2,100:DB4078&height=2" width="100%" alt="">
+
+<br>
 
 ## 🚀 Featured Repositories
 
@@ -82,7 +94,11 @@ Automation system built with Google Workspace to reduce the foundation's manual 
   <a href="https://github.com/miriamyi01?tab=repositories"><img src="https://img.shields.io/badge/All%20Repositories-8C29E2?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
+<br>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8C29E2,100:DB4078&height=2" width="100%" alt="">
+
+<br>
 
 ## 🎓 Education & Training
 
@@ -90,7 +106,11 @@ Automation system built with Google Workspace to reduce the foundation's manual 
 - **☁️ AWS Training & Certification:** Architecting on AWS, Data Warehousing, Building Data Lakes, Batch and Streaming Data Analytics, and Amazon SageMaker for Data Scientists.
 - **📈 Tableau:** Basic, Intermediate and Advanced workshops.
 
+<br>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8C29E2,100:DB4078&height=2" width="100%" alt="">
+
+<br>
 
 ## 🎨 Personal Traits
 
@@ -98,7 +118,11 @@ Automation system built with Google Workspace to reduce the foundation's manual 
 - 💪 **Determination:** Decisive and highly organized, with well-defined goals and a strong focus on results.
 - 🔥 **Passion for Innovation:** Always looking to refine my technical and professional skills.
 
+<br>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8C29E2,100:DB4078&height=2" width="100%" alt="">
+
+<br>
 
 ## 🎯 Tech Stack
 
@@ -162,7 +186,11 @@ Automation system built with Google Workspace to reduce the foundation's manual 
 
 </div>
 
+<br>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8C29E2,100:DB4078&height=2" width="100%" alt="">
+
+<br>
 
 ## 💬 Let's Connect
 
