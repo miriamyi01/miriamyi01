@@ -3,18 +3,16 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:8C29E2,100:DB4078&text=Miriam%20Reyes&fontColor=ffffff&fontSize=58&fontAlignY=36&animation=fadeIn&desc=Data%20Scientist%20%C2%B7%20Computer%20Engineer&descSize=20&descAlignY=58" width="100%" alt="Miriam Reyes banner">
 
 <a href="https://github.com/miriamyi01">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=900&color=8C29E2&center=true&vCenter=true&width=700&height=45&lines=Turning+data+into+business+decisions;Recommendation+systems+%C2%B7+Machine+Learning;Segmentation+%C2%B7+A%2FB+Testing+%C2%B7+Dashboards;Cloud+data+engineering+on+AWS;Machine+Learning+%C2%B7+Analytics+%C2%B7+GenAI" alt="Typing animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=900&color=B78AEB&center=true&vCenter=true&width=700&height=45&lines=Turning+data+into+business+decisions;Recommendation+systems+%C2%B7+Machine+Learning;Segmentation+%C2%B7+A%2FB+Testing+%C2%B7+Dashboards;Cloud+data+engineering+on+AWS;Machine+Learning+%C2%B7+Analytics+%C2%B7+GenAI" alt="Typing animation">
 </a>
 
-<br>
+<br><br>
 
   <a href="https://www.linkedin.com/in/miriam-reyes-ds/"><img src="https://img.shields.io/badge/LinkedIn-8C29E2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:miriam08.mr@gmail.com"><img src="https://img.shields.io/badge/Gmail-DB4078?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/miriamyi01"><img src="https://img.shields.io/badge/GitHub-262626?style=for-the-badge&logo=github&logoColor=white"></a>
 
 </div>
-
-<br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8C29E2,100:DB4078&height=2" width="100%" alt="">
 
